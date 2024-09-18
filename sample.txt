@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 commit 记录索引的状态
+=======
+pull 取得远端数据库的内容
+>>>>>>> e3ddefafb7a2c0c3ccb17b67e050c4d4e4de500f
